@@ -44,6 +44,7 @@ We like to keep our Markdown files as uniform as possible. So if you submit a PR
 
 # Contributors
 
+- [muhammd](https://github.com/muhammd)
 - [EdOverflow](https://github.com/EdOverflow)
 - [GerbenJavado](https://github.com/GerbenJavado)
 - [jon_bottarini](https://github.com/BlueTower)
